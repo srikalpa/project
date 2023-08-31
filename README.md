@@ -1,2 +1,2 @@
 #EXERCISE
-hello world.
+hello world ,namaste.
